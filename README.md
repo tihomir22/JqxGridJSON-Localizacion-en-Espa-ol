@@ -1,3 +1,8 @@
+# Funcionabilidades
+
+Implementada funcionabilidad de idioma en español , junto al aleman y al ingles. Tambien la recepcion de paquetes JSON desde el servidor y su mostramiento
+
+
 # JqxGridTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
